@@ -9,7 +9,7 @@ const userArray = ["Latte",
 
 //Stampiamo su html 
 
-const container = document.getElementById("lista")
+const container = document.getElementById("Lista")
 
 //identifichiamo l'indice
 
